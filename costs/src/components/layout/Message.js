@@ -1,5 +1,6 @@
-import styles from './Message.module.css';
 import {useState, useEffect} from 'react';
+
+import styles from './Message.module.css';
 
 function Message({type, msg}) {
 
