@@ -1,28 +1,6 @@
 {
   "projects": [
     {
-      "name": "HealthSense",
-      "budget": "30000",
-      "category": {
-        "id": "1",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Meu projeto 2",
-      "budget": "15000",
-      "category": {
-        "id": "2",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
       "name": "Meu projeto 3",
       "budget": "20000",
       "category": {
